@@ -1,5 +1,7 @@
 <?php
 
+namespace Bitsane;
+
 class Bitsane
 {
     const ORDER_TYPE_LIMIT = 'limit';
